@@ -1,0 +1,29 @@
+body {
+  font: "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: plum;
+  min-height: 110vh;
+}
+h1 {
+  font-size: 3em;
+}
+
+a {
+  color: #00B7FF;
+}
+.center {
+  text-align: center;
+  align-items: center;
+}
+.down {
+  margin-top: 15vh;
+}
+img {
+  max-height: 220px;
+}
+.cn {
+  margin-top: 5vh;
+}
+.joke-text {
+  font-style: italic;
+  font-size: 2em;
+}
