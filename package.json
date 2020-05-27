@@ -2,6 +2,9 @@
   "name": "chuck-norris",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "14.2.0"
+  }
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -10,9 +13,9 @@
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
+    "helmet": "^3.22.0",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "request": "^2.88.2",
-    "require": "^2.4.20"
   }
 }
